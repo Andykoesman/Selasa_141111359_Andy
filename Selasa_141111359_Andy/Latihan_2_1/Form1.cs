@@ -94,9 +94,7 @@ namespace Latihan_2_1
                 MessageBox.Show("Masukkan Bulan yang Tepat!!!");
                 return;
             }
-            string Tanggal = numericUpDown1.Value.ToString();
-            string Bulan = (domainUpDown1.SelectedIndex + 1).ToString();
-            string Tahun = DateTime.Today.Year.ToString();
+            string Tanggal = numericUpDown1.Value.ToString(); string Bulan = (domainUpDown1.SelectedIndex + 1).ToString(); string Tahun = DateTime.Today.Year.ToString();
             DateTime Hari = Convert.ToDateTime(Tanggal + "/" + Bulan + "/" + Tahun);
             monthCalendar1.AddAnnuallyBoldedDate(Hari);
             monthCalendar1.UpdateBoldedDates();
