@@ -1,0 +1,9 @@
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\volleyball_problem\bin\Debug\volleyball_problem.exe.config
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\volleyball_problem\bin\Debug\volleyball_problem.exe
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\volleyball_problem\bin\Debug\volleyball_problem.pdb
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\volleyball_problem\obj\Debug\volleyball_problem.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\volleyball_problem\obj\Debug\volleyball_problem.Form1.resources
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\volleyball_problem\obj\Debug\volleyball_problem.Properties.Resources.resources
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\volleyball_problem\obj\Debug\volleyball_problem.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\volleyball_problem\obj\Debug\volleyball_problem.exe
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\volleyball_problem\obj\Debug\volleyball_problem.pdb
