@@ -1,0 +1,11 @@
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\bin\Debug\Latihan_DA.exe.config
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\bin\Debug\Latihan_DA.exe
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\bin\Debug\Latihan_DA.pdb
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\bin\Debug\MySql.Data.dll
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\bin\Debug\MySql.Data.xml
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\obj\Debug\Latihan_DA.csprojResolveAssemblyReference.cache
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\obj\Debug\Latihan_DA.Form1.resources
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\obj\Debug\Latihan_DA.Properties.Resources.resources
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\obj\Debug\Latihan_DA.csproj.GenerateResource.Cache
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\obj\Debug\Latihan_DA.exe
+D:\Kuliah\Semester 5\Framework.NET Lanjutan\Tugas\Selasa_141111359_Andy\Latihan_DA\obj\Debug\Latihan_DA.pdb
